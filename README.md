@@ -1,5 +1,3 @@
-# Edge-of-Shadows 
-# Unity Version 2019.2.0f1
 Just the first prototype
 
 # Control keys
