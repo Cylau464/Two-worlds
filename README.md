@@ -1,5 +1,3 @@
-Just the first prototype
-
 # Control keys
 a / d or arrows - hor. movement  
 space - jump / double jump  
